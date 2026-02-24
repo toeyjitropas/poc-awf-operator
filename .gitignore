@@ -1,0 +1,7 @@
+.env
+notebook/
+refresh_token.txt
+token.json
+lib_test.py
+__pycache__
+credential.yaml
